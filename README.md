@@ -6,4 +6,4 @@ A program created to solve the following quiz from Udacity FEND course. This sho
 4. calling the returned function with a number should log out that many letters
 
 # Sample Call
-`numLetters('a')(4) yields 'aaaa'`
+`numLetters('a')(4)` yields `'aaaa'`
